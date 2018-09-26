@@ -1,0 +1,11 @@
+com/brothers/game/service/PlayerServiceImpl.class
+com/brothers/game/scanner/HandlerScaner.class
+com/brothers/game/bootstrap/XGameBootStrap.class
+com/brothers/game/bootstrap/XGameBootStrap$1.class
+com/brothers/game/controller/LoginController.class
+com/brothers/game/service/PlayerService.class
+com/brothers/game/scanner/Invoker.class
+com/brothers/game/config/XGameConfig.class
+com/brothers/game/bootstrap/BootLogger.class
+com/brothers/game/bootstrap/LoadState.class
+com/brothers/game/scanner/InvokerHoler.class
